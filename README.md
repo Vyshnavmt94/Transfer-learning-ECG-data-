@@ -1,1 +1,1 @@
-# Transfer-learning-applied-on-ECG-data-Arrythmia-Myocarditis-
+# Transfer learning being applied on ECG data to detect Arrythmia and Myocarditis
